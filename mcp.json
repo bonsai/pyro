@@ -1,0 +1,6 @@
+{
+  "name": "pyro",
+  "command": "python",
+  "args": ["mcp_server.py"],
+  "cwd": "SKILLS/pyro"
+}
