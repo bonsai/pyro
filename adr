@@ -1,0 +1,2 @@
+https://localhost:8000/
+# After Cloudflare deployment, replace with the wrangler URL (e.g., https://bonsai-pyro.workers.dev)
